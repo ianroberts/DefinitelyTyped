@@ -1232,7 +1232,6 @@ export interface ErrorOptions {
     color: Color;
     thickness: number;
     width: number;
-    opacity: number;
 }
 
 export type ErrorBar =
